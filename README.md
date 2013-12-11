@@ -9,4 +9,4 @@ Eclipse:
 See README_ECLIPSE.txt for app install instructions, and INSTALL_CAST_ECLIPSE.txt for Cast SDK setup instructions and common errors during setup/build/runtime. 
 
 Android Studio:
-To come.
+Open cloned folder in Android Studio or IDEA 13. Wait for it to generate modules from Gradle build files. Done.
